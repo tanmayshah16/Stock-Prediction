@@ -6,7 +6,7 @@ The stock market appears in the news every day. You hear about it every time it 
 This project utilizes Deep Learning models, Long-Short Term Memory (LSTM) Neural Network algorithm, to predict stock prices. I have used Keras to build a LSTM to predict stock prices using historical closing price and trading volume and visualize both the predicted price values over time and the optimal parameters for the model.
 
 
-![](Predicted vs Actual Price.png)
+![](Predicted%20vs%20Actual%20Price.png)
 
 
 
